@@ -21,6 +21,6 @@ The data used is provided by the Minor Irrigation Census. We preprocessed the da
 - Sheesh Saifi
 - Varun Garg
 - Parth Bangwal
-- Sneha Negi
 
-This project was created at the Internal Hackathon for Smart India Hackathon 2020
+
+This project was created at the Hackathon for Smart India Hackathon 2020
